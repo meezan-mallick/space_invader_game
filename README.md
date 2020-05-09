@@ -10,9 +10,8 @@ Python Space invader game using pygame library
 
 ---
 Do follows :
-[Instagram](https://instagram.com/meezan_malikh/)
 
-[Twitter](https://mobile.twitter.com/meezan_malik)
+[Instagram](https://instagram.com/meezan_malikh/),[Twitter](https://mobile.twitter.com/meezan_malik)
 
 ---
 !["screenshots"](readme_images/image1.png)
