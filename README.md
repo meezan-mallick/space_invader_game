@@ -4,8 +4,9 @@ Python Space invader game using pygame library
 ---
 ## Basic key operations :
 
--left to move spaceship left
--right key to move spaceship right
+- left to move spaceship left
+- right key to move spaceship right
+- Space bar to fire a bullet
 
 ---
 Do follows :
