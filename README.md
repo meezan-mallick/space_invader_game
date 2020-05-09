@@ -2,9 +2,6 @@
 Python Space invader game using pygame library
 
 ---
-A simple space invader game using pygame
-
----
 ## Basic key operations :
 
 -left to move spaceship left
