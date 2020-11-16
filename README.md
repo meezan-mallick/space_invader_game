@@ -5,24 +5,25 @@
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/subahanii/Whatsapp-Chat-Analyzer/issues)
 
 
-## INTRODUCTION:
+## Introduction
 Classic space invader 2D game.<br>
 Recall your old childhood memories, by playing the classic space invader game.
 <br><br>
 
-## Functions:
+## Functions
 1) Left cursor to move spaceship left.
 2) Right cursor key to move spaceship right.
 3) Space bar to fire a bullet.
 <br><br>
 
-## Images:
+## Images
 <img src="https://github.com/subahanii/Whatsapp-Chat-Analyzer/blob/master/image1.png" height="400" width="900" />
 <img src="https://github.com/subahanii/Whatsapp-Chat-Analyzer/edit/master/image1.png" height="400" width="900" />
 <br><br>
 
 ## Prerequisites:
-1- Python interpreter.<br>
+1) Python interpreter.
+2) Keyboard (to play)
 <br>
 
 ## Environment setup
@@ -34,9 +35,9 @@ Recall your old childhood memories, by playing the classic space invader game.
     ```sh
     pip install -r requirements.txt
    ```
+   note : Make sure you're connected to internet.
 3) Run the space_invader.py file.<br>
-<br><br>
-
+<br>
 ### Contributions :smiley:[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/subahanii/Whatsapp-Chat-Analyzer/issues)
 Contributions are always welcome.
 
