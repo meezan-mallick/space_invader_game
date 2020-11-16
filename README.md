@@ -17,8 +17,9 @@ Recall your old childhood memories, by playing the classic space invader game.
 <br><br>
 
 ## Images
-<img src="https://github.com/meezan-mallick/space_invader_game/tree/master/readme_images/image_1.PNG" height="300" width="400" />
-<img scr="https://github.com/meezan-mallick/space_invader_game/blob/master/readme_images/image_2.PNG" height="300" width="400" />
+![Screenshot](https://github.com/meezan-mallick/space_invader_game/blob/master/readme_images/image_1.PNG?raw=true)<br>
+![Screenshot](https://github.com/meezan-mallick/space_invader_game/blob/master/readme_images/image_2.PNG?raw=true)<br>
+![Screenshot](https://github.com/meezan-mallick/space_invader_game/blob/master/readme_images/image_3.PNG?raw=true)
 ## Prerequisites:
 1) Python interpreter.
 2) Keyboard (to play)
