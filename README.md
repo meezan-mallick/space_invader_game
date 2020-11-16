@@ -40,8 +40,9 @@ Recall your old childhood memories, by playing the classic space invader game.
    note : Make sure you're connected to internet.
 3) Run the space_invader.py file.<br>
 <br>
+
 ### Contributions :handshake:
-1) Fork the ![]
+1) Fork the [this](https://github.com/meezan-mallick/space_invader_game) repo
 2) Edit to your forked repo with branch "Development"
 3) Once done send a PR (Pull Request) to main repo.
 
