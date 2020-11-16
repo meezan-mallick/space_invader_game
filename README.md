@@ -17,8 +17,8 @@ Recall your old childhood memories, by playing the classic space invader game.
 <br><br>
 
 ## Images
-<img src="https://github.com/subahanii/Whatsapp-Chat-Analyzer/blob/master/image1.png" height="400" width="900" />
-<img src="https://github.com/subahanii/Whatsapp-Chat-Analyzer/edit/master/image1.png" height="400" width="900" />
+<img src="https://github.com/meezan-mallick/space_invader_game/tree/master/readme_images/image_1.png" height="400" width="900" />
+<img src="https://github.com/meezan-mallick/space_invader_game/tree/master/readme_images/image_2.png" height="400" width="900" />
 <br><br>
 
 ## Prerequisites:
