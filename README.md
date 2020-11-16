@@ -22,6 +22,7 @@ Recall your old childhood memories, by playing the classic space invader game.
 <img src= "https://github.com/meezan-mallick/space_invader_game/blob/master/readme_images/image_2.PNG?raw=true" height=350 width=500 />
 <br>
 <img src= "https://github.com/meezan-mallick/space_invader_game/blob/master/readme_images/image_3.png?raw=true" height=350 width=500 />
+
 ## Prerequisites:
 1) Python interpreter.
 2) Keyboard (to play)
@@ -39,9 +40,11 @@ Recall your old childhood memories, by playing the classic space invader game.
    note : Make sure you're connected to internet.
 3) Run the space_invader.py file.<br>
 <br>
-### Contributions :smiley:
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/meezan-mallick/space_invader_game/issues)
-Contributions are always welcome.
+### Contributions :handshake:
+1) Fork the ![]
+2) Edit to your forked repo with branch "Development"
+3) Once done send a PR (Pull Request) to main repo.
+
 
 ### Thank You.:pray:
 ##### If you like this please appreciate by giving start and Fork this repo.Thank You...! :clap: :clap: :clap:
